@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322594693493",
+    "project_id": "devbuic-todo-app",
+    "storage_bucket": "devbuic-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322594693493:android:d52b334ef0cb0d7818f33c",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322594693493-nvtp8sap5n112b1unncp0i4edugr3017.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3B-hmVooMOG1vdtfqeNnBViBsszGSK9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322594693493-nvtp8sap5n112b1unncp0i4edugr3017.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
